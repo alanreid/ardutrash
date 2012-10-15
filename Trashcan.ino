@@ -1,3 +1,8 @@
+/*
+ArduTrash developed by Alan Reid (09-2012)
+PCM Library by David A. Mellis
+You can dowload the PCM Library & conversion tools here: http://hlt.media.mit.edu/?p=1963
+*/
 
 #include <PCM.h>
 
